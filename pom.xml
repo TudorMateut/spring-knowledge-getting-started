@@ -14,6 +14,7 @@
         <module>dependency-injection-exemple</module>
         <module>spring-di-example</module>
         <module>spring-hello-service</module>
+        <module>spring-aop-example</module>
     </modules>
 
     <dependencies>

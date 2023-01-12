@@ -13,7 +13,7 @@ import java.util.Random;
 public class RandomNameService implements NameService {
     @Override
     public String getName() {
-        List<String> names = Arrays.asList("Messi", "Ronaldo", "Neymar", "Mbappe");
+        List<String> names = Arrays.asList("Messi", "Haaland", "Neymar", "Mbappe");
         int i = new Random().nextInt(4);
         return names.get(i);
     }

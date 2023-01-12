@@ -35,8 +35,6 @@ x
 Hspring-di-example/src/main/java/ro/sda/spring_di_3/components/Owner.java,1\6\163f290f88c5c409e3fc77efb8211d54c7d8942b
 l
 <spring-di-example/src/main/java/ro/sda/spring_di_3/Main.java,6\a\6aeb27477c9a15225ed3fb1a01843580f703dde1
-I
-spring-di-example/pom.xml,a\d\ad443dc156313f05900ef72c6f1b80921445da75
 s
 Cspring-di-example/src/main/java/ro/sda/spring_di_4/beans/Owner.java,4\e\4ed6a585ea0cc9628e772291411cec095362af93
 q
@@ -47,17 +45,9 @@ l
 Sspring-di-example/src/main/java/ro/sda/spring_di_4/configuration/ProjectConfig.java,6\b\6b28f17729c0bc7e381a49c3724df29bb1a01bed
 L
 spring-hello-service/pom.xml,0\0\0020eb741e5b6dfb181440a76b7e8c034a45b9b4
-‡
-Wspring-hello-service/src/main/java/ro/sda/helloapp/services/impl/RandomNameService.java,0\a\0ab496d80a2becbfe91694126c2e91113885da35
 ˆ
 Xspring-hello-service/src/main/java/ro/sda/helloapp/services/impl/SimpleHelloService.java,e\7\e7569740db73cea0558a6fb1ed58ff0afc601451
-|
-Lspring-hello-service/src/main/java/ro/sda/helloapp/services/NameService.java,4\d\4d0860234288b6d5ae779c1d740a424805a42cf9
 ‡
 Wspring-hello-service/src/main/java/ro/sda/helloapp/services/impl/SimpleNameService.java,b\d\bd66f44a08129fcc856279065e724a34014a94ee
-}
-Mspring-hello-service/src/main/java/ro/sda/helloapp/services/HelloService.java,5\d\5d65841791a2e33466401b4a82107963a22ba7ec
 |
 Lspring-hello-service/src/main/java/ro/sda/helloapp/config/ProjectConfig.java,1\6\16cf15239d404ccd1e336fc8b5a98c1b9f9b5b54
-l
-<spring-hello-service/src/main/java/ro/sda/helloapp/Main.java,7\2\727e77e33a01a5ac85cd1e49f6ed4692ae042b06

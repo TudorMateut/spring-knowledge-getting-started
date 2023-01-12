@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-di-example" />
+        <module name="spring-aop-example" />
         <module name="dependency-injection-exemple" />
         <module name="lombok-example" />
         <module name="json-exemple" />
