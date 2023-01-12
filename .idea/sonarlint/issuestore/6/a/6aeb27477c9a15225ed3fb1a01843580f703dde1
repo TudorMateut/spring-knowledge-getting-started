@@ -1,0 +1,10 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ú“Üİ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™Û®“ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸Ÿ™ışÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å˜õçüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Õª×ù
+_
+java:S1128"DRemove this unused import 'ro.sda.spring_di_1.config.ProjectConfig'.(¸¸ÿÿÿÿÿ
+J
+java:S1128	"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ

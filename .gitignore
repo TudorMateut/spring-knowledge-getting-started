@@ -1,0 +1,6 @@
+# Project exclude paths
+/dependency-injection-exemple/target/
+/json-exemple/target/
+/lombok-example/target/
+/spring-di-example/target/
+/spring-hello-service/target/
