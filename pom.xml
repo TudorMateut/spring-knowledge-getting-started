@@ -18,6 +18,8 @@
         <module>spring-database-layer</module>
         <module>spring-boot-first-project</module>
         <module>spring-boot-rest-app</module>
+        <module>spring-boot-product-app</module>
+        <module>spring-boot-product-app_2</module>
     </modules>
 
     <dependencies>

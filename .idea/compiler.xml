@@ -11,7 +11,9 @@
         <module name="spring-boot-first-project" />
         <module name="json-exemple" />
         <module name="spring-hello-service" />
+        <module name="spring-boot-product-app_2" />
         <module name="spring-database-layer" />
+        <module name="spring-boot-product-app" />
         <module name="spring-boot-rest-app" />
         <module name="spring-aop-example" />
         <module name="dependency-injection-exemple" />
